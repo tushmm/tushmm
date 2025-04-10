@@ -6,13 +6,13 @@
 
 <br>
     <pre>
-    🍒～name：眠眠殿下
+    🍒name：眠眠殿下
     💼 
     💻 
-    📖 
-    ❤️～like：Game·ArchLinux·Code·YY（master）
+    📖
+    ❤️like：Game·ArchLinux·Code·YY（master）
     🐾
     </pre>
 <br>
 
-   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60"/>
