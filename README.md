@@ -1,13 +1,8 @@
 
 [<img src="./static/hello.png">](https://home.chfychin.cn/)
 
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./static/image.gif" width="30px" alt=""><br>
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chfychin/yyoath//output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chfychin/yyoath/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chfychin/yyoath/output/github-contribution-grid-snake.svg">
-</picture>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 你好呀🍒<𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./static/image.gif" width="30px" alt=""><br>
+
 
 
 
@@ -18,7 +13,7 @@
 
 <br>
     <pre>
-    🍒name：眠眠殿下
+    👀name：眠眠殿下
     💻 
     📖
     ❤️like：Game·Linux·Code·YY（master）
