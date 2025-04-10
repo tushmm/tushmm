@@ -7,10 +7,9 @@
 <br>
     <pre>
     🍒name：眠眠殿下
-    💼 
     💻 
     📖
-    ❤️like：Game·ArchLinux·Code·YY（master）
+    ❤️like：Game·Linux·Code·YY（master）
     🐾
     </pre>
 <br>
