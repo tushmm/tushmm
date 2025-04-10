@@ -7,7 +7,6 @@
 <img src="https://github.com/yyoath/yyoath/blob/main/assets/im.png?raw=true" width="25%" align="right" />
 
 <br>
-
     <pre>
     💼 BSC @ UFMG • Back-end dev • Platform Engineer
     💻 System programming languages • DevOps 
@@ -15,7 +14,8 @@
     🎮 Music • Games • Anime • Code • Art
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
     </pre>
+
+<br> 
 <br>
- 
-<br>
+
    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
