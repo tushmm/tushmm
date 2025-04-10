@@ -18,7 +18,7 @@
 
 <br>
     <pre>
-    🍒name：眠眠殿下 ![ 统计访问次数](https://profile-counter.glitch.me/yyoath/count.svg)
+    🍒name：眠眠殿下
     💻 
     📖
     ❤️like：Game·Linux·Code·YY（master）
