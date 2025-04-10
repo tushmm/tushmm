@@ -6,11 +6,12 @@
 
 <br>
     <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+    🍒～name：眠眠殿下
+    💼 
+    💻 
+    📖 
+    ❤️～like：Game·ArchLinux·Code·YY（master）
+    🐾
     </pre>
 <br>
 
